@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-#Author : Miyandi1927
-#Code by Miyandi Riski A
-#Team : Bengkulu Coder Security Elite
-#Tools : HashC7
+#Author : zxsuu
+#Code by zxsuu
+#Tools : HashCrf
 
 import re
 import os
